@@ -28,6 +28,7 @@ const Home = () => {
             >
                 <View rowGap={10} alignItems="center">
                     <Text link onPress={() => navigation.navigate('ShakingView')}>❤️ Shaking View</Text>
+                    <Text link onPress={() => navigation.navigate('SkiaExample')}>❤️ SkiaExample View</Text>
                     <Text>Just another placeholder</Text>
                 </View>
             </ScrollView>
