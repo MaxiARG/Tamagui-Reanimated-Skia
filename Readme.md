@@ -3,7 +3,7 @@
 To clone this repository as an Expo template, simply copy and paste the following command:
 
 ```bash
-npx create-expo-app@latest my-new-app --template https://github.com/MaxiARG/Tamagui-Reanimated-Template
+npx create-expo-app@latest my-new-app --template https://github.com/MaxiARG/Tamagui-Reanimated-Skia.git
 ```
 
 ### The project contains:
